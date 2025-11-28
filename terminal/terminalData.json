@@ -18,10 +18,10 @@
     "Will be updated here soon... meanwhile take a look at my GitHub and LinkedIn."
   ],
   "help": [
-    "<b style=\"color: orange;\">about</b> - About myself",
-    "social - Display social networks",
-    "help - You obviously already know what this does",
-    "email - Mail me",
-    "clear - Clear terminal"
+    "<b style=\"color: #fc7307;\">about</b> - About myself",
+    "<b style=\"color: #fc7307;\">social</b> - Display social networks",
+    "<b style=\"color: #fc7307;\">help</b> - You obviously already know what this does",
+    "<b style=\"color: #fc7307;\">email</b> - Mail me",
+    "<b style=\"color: #fc7307;\">clear</b> - Clear terminal"
   ]
 }
