@@ -18,7 +18,7 @@
     "Will be updated here soon... meanwhile take a look at my GitHub and LinkedIn."
   ],
   "help": [
-    "about - About myself",
+    "<b style=\"color: orange;\">about<b> - About myself",
     "social - Display social networks",
     "help - You obviously already know what this does",
     "email - Mail me",
