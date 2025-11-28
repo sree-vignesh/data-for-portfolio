@@ -1,0 +1,27 @@
+{
+  "password": "n0t4p@55w0rd!",
+  "linkedin": "https://www.linkedin.com/in/sreevigneshc/",
+  "github": "https://github.com/sree-vignesh/",
+  "email": "mailto:reach.sreevignesh@gmail.com",
+  "whois": [
+    "Greetings, I'm Sree Vignesh!",
+    "A web wizard with a fervent fascination for the realms of networking and operating systems.",
+    "I approach tech challenges like a daring adventurer exploring uncharted territories.",
+    "Armed with a diverse toolkit of languages and technologies.",
+    "If you seek a collaborator who merges technical prowess with a visionary spirit, let's forge a connection!"
+  ],
+  "social": [
+    "linkedin <a href='https://www.linkedin.com/in/sreevigneshc/' target='_blank'>linkedin/sree-vignesh</a>",
+    "github <a href='https://github.com/sree-vignesh/' target='_blank'>github/sree-vignesh</a>"
+  ],
+  "projects": [
+    "Will be updated here soon... meanwhile take a look at my GitHub and LinkedIn."
+  ],
+  "help": [
+    "about - About myself",
+    "social - Display social networks",
+    "help - You obviously already know what this does",
+    "email - Mail me",
+    "clear - Clear terminal"
+  ]
+}
