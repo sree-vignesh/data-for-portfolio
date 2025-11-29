@@ -1,55 +1,55 @@
 [
   {
-    "id": "132f3b56-66a7-40d0-a953-1cee64efdbb9",
+    "link": "https://www.credly.com/badges/ab095284-0e25-403f-ac8f-12517b18e3fb",
     "title": "Networking Basics",
     "issuer": "Cisco",
     "issued": "Aug 23, 2025",
     "description": "Knowledge of networks, devices, IP addressing, transport and applications; practiced building a home wireless network."
   },
   {
-    "id": "6794be59-6ad9-449f-b06a-538913cc38c6",
+    "link": "https://www.credly.com/badges/f1fd2697-8ec5-4818-99f8-39460a94b5ca",
     "title": "Junior Cybersecurity Analyst Career Path",
     "issuer": "Cisco",
     "issued": "Aug 22, 2025",
     "description": "Skills to monitor and protect networks, handle security alerts, perform vulnerability assessments and create risk management plans."
   },
   {
-    "id": "29d0d7e8-95f3-4022-bfda-1e3accabb3d9",
+    "link": "https://www.credly.com/badges/71af5457-4d9f-4d56-be7c-0f0d1e4ada96",
     "title": "Networking Devices and Initial Configuration",
     "issuer": "Cisco",
     "issued": "Aug 23, 2025",
     "description": "Configured Cisco devices, calculated IP schemes, and tested network connectivity; completed labs and Packet Tracer activities."
   },
   {
-    "id": "e5132511-d14d-4031-91d7-1fbdfccfc5cf",
+    "link": "https://www.credly.com/badges/5cab5f61-87b5-4c6a-a283-f1742b07b640",
     "title": "CyberOps Associate",
     "issuer": "Cisco",
     "issued": "Aug 21, 2025",
     "description": "Understanding of Security Operations; skills to detect, analyze intrusions, and monitor networks using labs and Packet Tracer."
   },
   {
-    "id": "757a4d1a-7a91-4984-a8be-b0cd4164fd93",
+    "link": "https://www.credly.com/badges/e1dc5bd8-e986-4cfb-9312-086050651059",
     "title": "Network Defense",
     "issuer": "Cisco",
     "issued": "Aug 23, 2025",
     "description": "Understanding techniques to monitor and protect networks and skills to evaluate and respond to security alerts."
   },
   {
-    "id": "a9898fba-6bd6-41f1-b007-0a84525d916b",
+    "link": "https://www.credly.com/badges/0d42fff3-33ff-48cc-9937-e2f9f436d38b",
     "title": "Endpoint Security",
     "issuer": "Cisco",
     "issued": "Aug 20, 2025",
     "description": "Understanding basic concepts of network, OS, and endpoint security."
   },
   {
-    "id": "a7700bfd-cda3-4968-b49f-128ed837e91f",
+    "link": "https://www.credly.com/badges/d19f3eb7-5167-4719-b0c3-5fed1bf986d1",
     "title": "Ethical Hacker",
     "issuer": "Cisco",
     "issued": "Jul 11, 2025",
     "description": "Proficient in vulnerability assessments, reporting, and recommending mitigation strategies; completed hands-on activities."
   },
   {
-    "id": "f16790ca-6279-409a-8cfa-8e70b813ed01",
+    "link": "https://www.credly.com/badges/b87d5251-34e3-4937-a91c-98875d390c2a",
     "title": "Introduction to Cybersecurity",
     "issuer": "Cisco",
     "issued": "Jul 10, 2025",
