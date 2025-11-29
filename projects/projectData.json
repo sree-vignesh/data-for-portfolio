@@ -14,7 +14,7 @@
 
   {
     "title": "Image-to-ASCII-Js",
-    "description": "This project converts images into an ASCII-friendly format and displays them in the terminal. It utilizes image-js and image-to-ascii libraries to show ASCII art representations of your images.",
+    "description": "This tool generates ASCII art representations of images, which can be used in terminals or text-based interfaces.",
     "tags": ["NodeJS", "JavaScript", "Python"],
     "link": "https://github.com/sree-vignesh/image-to-ascii-js"
   },
